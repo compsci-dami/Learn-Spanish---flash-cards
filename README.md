@@ -1,5 +1,6 @@
 # Learn-Spanish---flash-cards
 
-This python program uses tkinter library for a user friendly interface, each flash card presents with a Spanish word. After a short delay, the card will flip, revealing the English translation. Use the buttons to indicate whether you knew the word or not, and proceed to the next word. Your score will be updated accordingly. The unkown words will be stored on a csv file "words to learn", so the user can review and before trying again.
+This Python program uses the Tkinter library to create a user-friendly interface for language learning through flashcards. Each flashcard displays a word in Spanish, and after a brief delay, flips to reveal its English translation. Users can interact with the program using buttons to indicate whether they knew the word. Based on the responses, the score is updated accordingly.
 
+Words not recognized by the user are saved to a CSV file named "words_to_learn.csv", allowing users to easily review them before attempting again. This feature ensures personalized learning, focusing on areas that need improvement.
 
